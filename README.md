@@ -9,6 +9,7 @@ A real time face recognition of students for their attendance. The attendance re
 local database of face and their encodings ------> face recognition--------> mark attendance in excel sheet
 
 **Methodology of the system:** 
+
 •Capture a video and check each frame for person. • If any person is detected , detect the face and crop the frame around his face. • Generate facial features of that face and match these with the local database. • If the facial features are matched get the name of the person from the local database. • Get the date and name of the person detected and update the attendance in the excel sheet.
 
 **Methodology for face recognition:**
