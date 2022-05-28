@@ -1,5 +1,5 @@
-`**FACE RECOGNITION BASED ATTENDANCE SYSTEM**`
-
+                                                  ****FACE RECOGNITION BASED ATTENDANCE SYSTEM****
+                                                  
 Python implementation of simple face recognition based attendance system using face_recognition library.
 
 A real time face recognition of students for their attendance. The attendance record is stored in an excel sheet.
