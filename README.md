@@ -1,4 +1,4 @@
-                                                  ****FACE RECOGNITION BASED ATTENDANCE SYSTEM****
+                                           **FACE RECOGNITION BASED ATTENDANCE SYSTEM**
                                                   
 Python implementation of simple face recognition based attendance system using face_recognition library.
 
